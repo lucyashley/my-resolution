@@ -2,6 +2,7 @@ RENCANA YANG AKAN KUPELAJARI KEDEPANNYA:
 - Laravel
   * Materi Laravel 1
   * Materi Laravel 2
+  * Materi Laravel 3
 - Bootstrap
 - Javascript
   * Materi Javascript 1
