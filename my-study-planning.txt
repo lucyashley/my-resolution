@@ -1,7 +1,8 @@
 RENCANA YANG AKAN KUPELAJARI KEDEPANNYA:
 - Laravel
+  * Materi Laravel 2
+  * Materi Laravel 3
 - Bootstrap
 - Javascript
-- CodeIgniter
 
 Semoga saya lebih giat lagi belajarnya
