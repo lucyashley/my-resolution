@@ -3,3 +3,5 @@ RENCANA YANG AKAN KUPELAJARI KEDEPANNYA:
 - Bootstrap
 - Javascript
 - CodeIgniter
+
+Semoga saya lebih giat lagi belajarnya
