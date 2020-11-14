@@ -1,0 +1,5 @@
+RENCANA YANG AKAN KUPELAJARI KEDEPANNYA:
+- Laravel
+- Bootstrap
+- Javascript
+- CodeIgniter
